@@ -7,7 +7,7 @@ SIMplex: A streamlined and intuitive SIM activation portal. Built with React and
 
 ### Backend Repository Link 🔗
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[GitHub - SIMplex Backend](https://github.com/i-haq786/SIMplex-backend)
+[GitHub - SIMplex Backend](https://github.com/Alankriss07/SIMplex/tree/main/SIMplex-backend-main)
 
 
 
